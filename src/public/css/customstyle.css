@@ -1,0 +1,27 @@
+section {
+  padding: 60px 0;
+}
+.bannertxt {
+  padding: 30px 0;
+}
+.bannertxt h1 {
+  font-size: 62px;
+  line-height: 1.1;
+  color: black;
+  text-transform: capitalize;
+}
+.bannertxt p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #555;
+  letter-spacing: 1px;
+}
+a:hover {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+.aimg {
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+}
